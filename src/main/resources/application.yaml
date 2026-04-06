@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: gest_api
